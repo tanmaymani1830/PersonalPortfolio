@@ -5,7 +5,7 @@ A personal portfolio website designed to showcase projects, technical skills, an
 
 ## 🌐 Live Demo
 Visit the live portfolio here:  
-👉 https://karthik-004.github.io/PORTFOLIO/
+👉 https://github.com/tanmaymani1830/PersonalPortfolio.git
 
 ## Overview
 This portfolio website presents an overview of my background, skills, and projects in a clean and structured layout. It is built to be responsive, user-friendly, and easy to navigate across devices.
@@ -30,7 +30,7 @@ A modern web browser (Chrome, Edge, Firefox, etc.)
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KARTHIK-004/PORTFOLIO.git
+   git clone https://github.com/tanmaymani1830/PersonalPortfolio.git
 ````
 
 2. Navigate to the project directory:
