@@ -208,7 +208,11 @@ img {
   color: var(--first-color);
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:768px) {
+   .home__container {
+    flex-direction: column;
+  }
+}
   .nav__menu{
     position: fixed;
     bottom: -100%;
